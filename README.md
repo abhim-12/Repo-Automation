@@ -11,6 +11,6 @@
 	Git needs to be installed locally on the system.
 
 ## Screenshots : <br>
-	![](screenshots/creation.png)
+ ![](result/creation.png)
 
-	![](screenshots/result.png)
+ ![](result/result.png)
