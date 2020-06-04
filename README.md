@@ -1,4 +1,4 @@
-# Repo-Automation <br>
+# Automating Github Repository Creation <br>
 	Automaing Gihub Login and Repository creation.
 	Tkinter is used to provide a GUI with the following fields : <br>
 		User Name
